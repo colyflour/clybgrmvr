@@ -1,6 +1,6 @@
 /**
   GIT : https://github.com/colystutorial/clybgrmvr
-  DISCORD SERVER : https://discord.gg/myxlrie
+  DISCORD SERVER : https://discord.gg/colyflour
  * **********************************************
  *   Code by COLYFLOUR
  * **********************************************
@@ -29,7 +29,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".gg/rimori","hail queen ria","coly = yummy"];
+const statusMessages = [".gg/colyflour","CHEAP TOP-UPS","(ˆ ̳⦁⩊⦁ ̳ˆ)"];
 
 
 let currentIndex = 0;
@@ -47,7 +47,7 @@ async function login() {
 
 /**
   GIT : https://github.com/colystutorial/clybgrmvr
-  DISCORD SERVER : https://discord.gg/myxlrie
+  DISCORD SERVER : https://discord.gg/colyflour
  * **********************************************
  *   Code by COLYFLOUR
  * **********************************************
@@ -77,8 +77,8 @@ function updateStatusAndSendMessages() {
 
 client.once('ready', () => {
   console.log(`\x1b[36m%s\x1b[0m`, `|    ✅ Bot is ready as ${client.user.tag}`);
-  console.log(`\x1b[36m%s\x1b[0m`, `|    ✨HAPPY NEW YEAR MY DEAR FAMILY`);
-  console.log(`\x1b[36m%s\x1b[0m`, `|    ❤️WELCOME TO 2024`);
+  console.log(`\x1b[36m%s\x1b[0m`, `|    ✨ENJOY YOUR CUSTOMIZED BOT STATUS!`);
+  console.log(`\x1b[36m%s\x1b[0m`, `|    ❤️DM me on discord for concerns @colyflour`);
   updateStatusAndSendMessages();
 
   setInterval(() => {
@@ -90,7 +90,7 @@ login();
 
 /**
   GIT : https://github.com/colystutorial/clybgrmvr
-  DISCORD SERVER : https://discord.gg/myxlrie
+  DISCORD SERVER : https://discord.gg/colyflour
  * **********************************************
  *   Code by COLYFLOUR
  * **********************************************
