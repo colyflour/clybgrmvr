@@ -1,6 +1,6 @@
 /**
   GIT : https://github.com/colystutorial/clybgrmvr
-  DISCORD SERVER : https://discord.gg/colyflour
+  DISCORD SERVER : https://discord.gg/miuna
  * **********************************************
  *   Code by COLYFLOUR
  * **********************************************
@@ -29,7 +29,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".gg/colyflour","CHEAP TOP-UPS","(ˆ ̳⦁⩊⦁ ̳ˆ)"];
+const statusMessages = ["assisting coly >"<","vouch within 12hrs!","developed by @colyflour","helping at gg./miuna","watch Nagi no Asukara w/me!","i just wanted to be happy"];
 
 
 let currentIndex = 0;
