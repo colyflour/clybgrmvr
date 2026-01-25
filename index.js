@@ -29,7 +29,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["assisting coly >"<","vouch within 12hrs!","developed by @colyflour","helping at gg./miuna","watch Nagi no Asukara w/me!","i just wanted to be happy"];
+const statusMessages = ["assisting coly! >.<","vouch within 12hrs!","developed by @colyflour","helping at gg./miuna","watch Nagi no Asukara w/me!","i just wanted to be happy"];
 
 
 let currentIndex = 0;
